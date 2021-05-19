@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "Creator   : Nazmul Tufan[ANM Miah]"
+print "Creator   : Nazmul Tufan"
 print "Hackers [Admin]: https://www.facebook.com/zihad.hossain36"
 print "github   : https://github.com/deebweb8578"
 print "Facebook : https://www.facebook.com/access.darkweb.hacker"
